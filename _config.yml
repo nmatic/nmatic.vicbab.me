@@ -1,0 +1,4 @@
+name: nmatic
+markdown: kramdown
+
+theme: jekyll-theme-cayman
